@@ -16,3 +16,6 @@ Designing a vending machine using Verilog
 - file system 비교 프로젝트
 - network filtering 구현 프로젝트
 
+## Machine Learning
+- 네트워크 침입 감시 시스템용 데이터를 통한 기계학습
+- 주어진 Train data로 학습, test data로 classification 성공률 확인
